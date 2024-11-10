@@ -35,4 +35,4 @@ Template de démarrage pour des tests Cucumber, conçu pour automatiser les scé
 
 Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous [LICENSE](LICENSE) MIT.
