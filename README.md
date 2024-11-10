@@ -33,6 +33,6 @@ Template de démarrage pour des tests Cucumber, conçu pour automatiser les scé
    ```bash
    mvn clean install
 
-Licence
+## Licence
 
 Ce projet est sous [LICENSE](LICENSE) MIT.
